@@ -1,8 +1,8 @@
 # EE-208-Control-Engineering
 
-'''
+```
 This repository contains the problem statements, codes, simulations and our research on the given problem statements.
-'''
+```
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ Each problem statement was unique on its own and had several twists from normal 
 
 We used MATLAB R2021b to code our matlab scripts and simulink to test our results. Few frequently used blocks were
 
-'''
+```
 |
 |_ _ Mathematical
         |_ _ sum, subtract, multiply, divide
@@ -35,4 +35,12 @@ We used MATLAB R2021b to code our matlab scripts and simulink to test our result
         |_ _ histogram, pie, bar, heatmap
         |_ _ grid, legend
                 
-'''
+```
+
+## Team Members
+
+| Name      | Email |
+| :---        |    :----:   |
+| Tushar Sharma      | 2020eeb1325@iitrpr.ac.in       |
+| Tiya Jain   | 2020eeb1213@iitrpr.ac.in        |
+| Raj Kumar Deb   | 2020eeb1025@iitrpr.ac.in        |
