@@ -1,7 +1,7 @@
 # EE-208-Control-Engineering
 
 
-This repository contains the problem statements, codes, simulations and our research on the given problem statements.
+The course of Control Engineering expected us to research and find solutions to various mini-projects using MATLAB. This repository contains the problem statements, codes, simulations and our research on the given problem statements.
 
 ## Problem Statement
 
@@ -9,7 +9,7 @@ Each problem statement was unique on its own and had several twists from normal 
 
 ## Code And Simulations
 
-We used MATLAB R2021b to code our matlab scripts and simulink to test our results. Few frequently used blocks were
+We used MATLAB R2021b to code our MATLAB scripts and Simulink to test our results. Few frequently used blocks were
 
 ```
 |
