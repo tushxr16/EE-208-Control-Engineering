@@ -1,8 +1,7 @@
 # EE-208-Control-Engineering
 
-```
+
 This repository contains the problem statements, codes, simulations and our research on the given problem statements.
-```
 
 ## Problem Statement
 
